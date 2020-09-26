@@ -5,29 +5,29 @@
                 "day": 1,
                 "horario1": {
                     "aula": "Redes de Comunicação de Dados II",
-                    "hora": "19:00 à 20:40"
+                    "hora": "19:00 às 20:40"
                 },
                 "horario2": {
                     "aula": "Tópicos Especiais Em Computação",
-                    "hora": "19:00 à 20:40"
+                    "hora": "21:00 às 22:40"
                 }
             },
             {
                 "day": 2,
                 "horario1": {
                     "aula": "Inteligência Artificial",
-                    "hora": "19:00 à 20:40"
+                    "hora": "19:00 às 20:40"
                 },
                 "horario2": {
                     "aula": "Monografia",
-                    "hora": "19:00 à 20:40"
+                    "hora": "21:00 às 21:50"
                 }
             },
             {
                 "day": 3,
                 "horario1": {
                     "aula": "Inteligência Artificial",
-                    "hora": "19:00 à 20:40"
+                    "hora": "19:00 às 20:40"
                 },
                 "horario2": {
                     "aula": "",
@@ -38,7 +38,7 @@
                 "day": 4,
                 "horario1": {
                     "aula": "Laboratório de Programação II",
-                    "hora": "19:00 à 20:40"
+                    "hora": "19:00 às 20:40"
                 },
                 "horario2": {
                     "aula": "",
@@ -49,7 +49,7 @@
                 "day": 5,
                 "horario1": {
                     "aula": "Empreendedorismo e Inovação",
-                    "hora": "19:00 à 20:40"
+                    "hora": "19:00 às 20:40"
                 },
                 "horario2": {
                     "aula": "",
