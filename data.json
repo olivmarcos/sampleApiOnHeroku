@@ -1,6 +1,61 @@
 [
     {
-        "aula": "Engenharia de Software",
-        "hora": "19:00 à 20:40"
+        "aulas": [
+            {
+                "day": 1,
+                "horario1": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                },
+                "horario2": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                }
+            },
+            {
+                "day": 2,
+                "horario1": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                },
+                "horario2": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                }
+            },
+            {
+                "day": 3,
+                "horario1": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                },
+                "horario2": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                }
+            },
+            {
+                "day": 4,
+                "horario1": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                },
+                "horario2": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                }
+            },
+            {
+                "day": 5,
+                "horario1": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                },
+                "horario2": {
+                    "aula": "Engenharia de Software",
+                    "hora": "19:00 à 20:40"
+                }
+            }
+        ]
     }
 ]
