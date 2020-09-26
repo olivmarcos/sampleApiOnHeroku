@@ -1,0 +1,23 @@
+[
+    {
+        "discipinas": [
+            {
+                "id": "monografia",
+                "nota": 10.00
+            },
+            {
+                "id": "inteligencia artificial",
+                "nota": 11.00
+            },
+            {
+                "id": "laboratorio de programacao",
+                "nota": 12.00
+            },
+            {
+                "id": "empreendedorismo",
+                "nota": 13.00
+            }
+            
+        ]
+    }
+]
