@@ -4,56 +4,56 @@
             {
                 "day": 1,
                 "horario1": {
-                    "aula": "Engenharia de Software",
+                    "aula": "Redes de Comunicação de Dados II",
                     "hora": "19:00 à 20:40"
                 },
                 "horario2": {
-                    "aula": "Engenharia de Software",
+                    "aula": "Tópicos Especiais Em Computação",
                     "hora": "19:00 à 20:40"
                 }
             },
             {
                 "day": 2,
                 "horario1": {
-                    "aula": "Engenharia de Software",
+                    "aula": "Inteligência Artificial",
                     "hora": "19:00 à 20:40"
                 },
                 "horario2": {
-                    "aula": "Engenharia de Software",
+                    "aula": "Monografia",
                     "hora": "19:00 à 20:40"
                 }
             },
             {
                 "day": 3,
                 "horario1": {
-                    "aula": "Engenharia de Software",
+                    "aula": "Inteligência Artificial",
                     "hora": "19:00 à 20:40"
                 },
                 "horario2": {
-                    "aula": "Engenharia de Software",
-                    "hora": "19:00 à 20:40"
+                    "aula": "",
+                    "hora": ""
                 }
             },
             {
                 "day": 4,
                 "horario1": {
-                    "aula": "Engenharia de Software",
+                    "aula": "Laboratório de Programação II",
                     "hora": "19:00 à 20:40"
                 },
                 "horario2": {
-                    "aula": "Engenharia de Software",
-                    "hora": "19:00 à 20:40"
+                    "aula": "",
+                    "hora": ""
                 }
             },
             {
                 "day": 5,
                 "horario1": {
-                    "aula": "Engenharia de Software",
+                    "aula": "Empreendedorismo e Inovação",
                     "hora": "19:00 à 20:40"
                 },
                 "horario2": {
-                    "aula": "Engenharia de Software",
-                    "hora": "19:00 à 20:40"
+                    "aula": "",
+                    "hora": ""
                 }
             }
         ]
