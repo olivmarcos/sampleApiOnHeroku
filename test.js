@@ -34,7 +34,7 @@ const getNoteByDisciplina = async (disciplina) => {
     .get(`${url}/disciplina/${disciplina}`)
     .then((response) => {
       const result = response.data;
-      console.log(result.nota);
+      console.log(`A sua nota atual em ${disciplina} é ${String(result.nota)}`);
     })
     .catch((error) => {
       console.log(error);
